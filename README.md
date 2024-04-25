@@ -13,6 +13,8 @@ I found it difficult to measure GANs because each research group calculates stat
 - Generation of an animated GIF that shows the original, the above PNG, and the generated image to make it easier to visualize the inpainting result.
 - A detailed CSV file with paths to input images, masks, and output images, statistics for every image, and mean, standard deviation and variance for FID, LPIPS and SSIM. With a CSV, researchers can create their own charts and graphs either in a spreadsheet or in, say, Jupyter Notebook.
 
+![Sample GIF](doc_images/0ca56558107bdae5_overlay.gif)
+
 **Organization of the files:**
 
 1. Assignments folder, which contains various documents from my semester course at Columbia including the Final Report, from which I took some text to make this README.
